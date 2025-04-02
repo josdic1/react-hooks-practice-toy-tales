@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 38
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 22
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
+      "image": "https://m.media-amazon.com/images/I/61OIdq73gNL._AC_UF894,1000_QL80_.jpg",
       "likes": 1
     },
     {
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": "Forky",
+      "image": "https://s7.orientaltrading.com/is/image/OrientalTrading/PDP_VIEWER_IMAGE/disney-toy-story-4-forky-life-size-cardboard-stand-up~13944965",
+      "likes": 9,
+      "id": 9
+    },
+    {
+      "name": "Bo Peep",
+      "image": "https://i.ebayimg.com/images/g/3jcAAOSwZexePoBu/s-l1200.jpg",
+      "likes": 6,
+      "id": 10
     }
   ]
 }
